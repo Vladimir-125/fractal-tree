@@ -1,2 +1,2 @@
-# fractal-tree-p5js
+# fractal-tree-p5.js
 p5.js practice project
